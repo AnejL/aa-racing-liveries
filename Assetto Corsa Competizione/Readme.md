@@ -30,4 +30,8 @@
 
 - Contents of these files can be copied from any file in **Materials** folder
 
+#### Finalizing
+
 - Once texture is ready, copy decals.png and sponsors.png to Documents/Assetto Corsa Competizione/Customs/Liveries/**aa_ferrari_488_evo**
+
+- Reopen car inside ACC
